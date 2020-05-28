@@ -1,7 +1,7 @@
 title:              "The Seoul Food"
 tagline:            "Tasty & Reasonable"
 email:              "gistory92@gmail.com"
-description:        "Real foods in Seoul for traveler"
+description:        "Real foods in Seoul for traveler : Do not lose your"
 author:             "Mello"
 baseurl:            ""
 url:                "https://www.theseoulfood.com"
@@ -21,3 +21,7 @@ paginate:           5
 paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-paginate
+
+# 블로그 disqus shortname
+disqus:
+  shortname: theseoulfood-com
