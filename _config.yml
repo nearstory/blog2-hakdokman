@@ -1,0 +1,23 @@
+title:              "The Seoul Food"
+tagline:            "Tasty & Reasonable"
+email:              "gistory92@gmail.com"
+description:        "Real foods in Seoul for traveler"
+author:             "Mello"
+baseurl:            ""
+url:                "https://www.theseoulfood.com"
+locale:             "ko_KR"
+thumbnail:          "/img/01.png"
+
+# Social Profiles
+twitter_username:   twitter_username
+instagram_username: instagram_username
+facebook_username:  facebook_username
+linkedin_username:  linkedin_username
+
+# Build settings
+markdown:           kramdown
+permalink:          /:title
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-paginate
