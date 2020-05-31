@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /theseoulfood04/
-title: '[03] Korean Barbecue <br> Sam-sa-mi-ne<br> (삼삼이네)'
+title: '[03] Korean Barbecue Sam-sa-mi-ne<br> (삼삼이네)'
 date: 2020-05-31 13:30:00 +09:00
 feature: '/img/posts/04/01.png'
 background: '/img/posts/04/02.png'
@@ -19,7 +19,7 @@ If you prefer to satisfy with quantity of meat rather than quality of meat, you 
 
 -----------
 
-![samsamine](/img/posts/04/03.png)
+![samsamine](/img/posts/04/03.jpg)
 
 **삼삼이네 (Samsamine Korean Barbecue)**
 
