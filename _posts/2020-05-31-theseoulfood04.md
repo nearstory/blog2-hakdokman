@@ -12,7 +12,7 @@ tags:
   - Barbecue
   - Budae-jjigae
   - Dak-galbi
-description: "Still popular. It's been more than 20 years."
+description: "If you prefer to eat more, it's a good choice."
 ---
 
 If you prefer to satisfy with quantity of meat rather than quality of meat, you should feel good what I'm about to introduce now. It will be a good recommendation if you live near this restaurant.
