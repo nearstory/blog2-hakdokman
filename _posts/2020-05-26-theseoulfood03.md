@@ -13,7 +13,6 @@ tags:
   - Budae-jjigae
   - Dak-galbi
 description: "Still popular. It's been more than 20 years."
-
 ---
 
 If you wanna have a stir fry food with spicy & sweet sauce(Of course, It is gochujang.), Dak-galbi is a good choice for you. This place has done its job since 1997. But, you know, still many young and old people have visited on and on.
@@ -28,13 +27,13 @@ Here’s ...
 
 Cuisine : Dak-galbi, Korean restaurant
 
-Address : 405-92 Mok 1(il)-dong, Yangcheon-gu, Seoull
+Address : 405-92 Mok 1(il)-dong, Yangcheon-gu, Seoul
 
 Google Rate : ★★★★☆(4.0/5.0)
 
 Price Range : ￦￦￦￦~￦￦￦￦￦
 
- ---
+---
 
 # My review
 
