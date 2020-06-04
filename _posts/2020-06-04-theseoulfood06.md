@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /theseoulfood06/
-title: '[04] Uijeongbu Budae-jjigae<br> (텍사스 데 브라질)'
+title: '[05] Uijeongbu Budae-jjigae<br> (의정부 부대찌개)'
 date: 2020-06-04 13:30:00 +09:00
 feature: '/img/posts/06/01.jpg'
 background: '/img/posts/06/02.jpg'
@@ -10,7 +10,7 @@ categories:
 tags: 
   - Budae-jjigae
   - Korea
-description: "Classic Budae-jjigae with many vegis"
+description: "Classic Budae-jjigae with green vegetables"
 ---
 
 At the first post I wrote, Budae-jjigae was from supplies of U.S. Army at Korean war. What I need to mention is that still U.S. Army is located near Uijeongbu city, which is the home town of Budae-jjiage. Budae-jjigae has transformed a lot while South Korea has been developed, but originally, Uijeongbu Budae-jjigae consists of lots of vegetables, especially Buttercup. Buttercup gives special synergy when you eat a bit of salty ingredients.
