@@ -24,7 +24,7 @@ Caution !!!
 
 This place is sooooo popular, then you have to wait here before it opens. Time to open is 17:00, however you should be arrived at 16:00 because reservation for here starts at 16:00. There is no way to reserve in online. You can receive a text message when your turn comes.
 
-**There are at least 5-10 teams in waiting line in an average eventhough you are late for a little.** Here is really popular, as I said.
+**There are at least 5-10 teams in waiting line in an average even though you are late for a little.** Here is really popular, as I said.
 
 ![nyd](/img/posts/07/03.jpg)
 
