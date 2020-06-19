@@ -4,7 +4,7 @@ permalink: /theseoulfood07/
 title: '[07] Nam-Yeongdon (남영돈)'
 date: 2020-06-19 13:30:00 +09:00
 feature: '/img/posts/07/01.jpg'
-background: '/img/posts/07/02.jpg'
+background: '/img/posts/07/02.png'
 categories: 
   - Korean foods
 tags: 
